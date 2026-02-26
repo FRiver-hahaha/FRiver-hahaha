@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ## Hi！
 
 - I'm currently studying in xi'an university of posts and telecommunications.
-- Playing games, Listening musics, modding videos are my favorites. 
+- Playing games, Listening musics, Modding videos are my favorites. 
 - New here, New face!
