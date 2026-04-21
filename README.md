@@ -16,14 +16,18 @@ Here are some ideas to get you started:
 -->
 
 
-## 你好！
+# 你好!
 
 - 目前就读于西安邮电大学。
-- 业余时间喜欢玩游戏，听音乐，做视频。
-- 初来乍到，请多关照！
+- 西邮 Linux 兴趣小组成员。
+- 业余时间喜欢玩游戏,听音乐,做视频。
+- 目前正在学习Linux,AI,游戏开发。
+- 热爱开源，Free Open Share。
+- 初来乍到,请多关照！
 
+---
 
-## Hi！
+# Hi!
 
 - I'm currently studying in xi'an university of posts and telecommunications.
 - Playing games, Listening musics, Modding videos are my favorites. 
