@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![我的](https://www.gmaxh.site/favicon/avatar.jpeg=200x)](https://www.gmaxh.site/)
+[我的](https://www.gmaxh.site/)
 
 # 你好!
 
